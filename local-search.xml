@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>my fist test</title>
+    <link href="/2025/04/17/my-fist-test/"/>
+    <url>/2025/04/17/my-fist-test/</url>
+    
+    <content type="html"><![CDATA[<h1 id="this-is-a-first-test-about-my-blogs"><a href="#this-is-a-first-test-about-my-blogs" class="headerlink" title="this is a first test about my blogs"></a>this is a first test about my blogs</h1>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>c++学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/04/16/hello-world/"/>
     <url>/2025/04/16/hello-world/</url>
